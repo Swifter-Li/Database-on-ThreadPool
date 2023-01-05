@@ -1,0 +1,2 @@
+db/mTable0.tbl filter=lfs diff=lfs merge=lfs -text
+db/tlarge.tbl filter=lfs diff=lfs merge=lfs -text

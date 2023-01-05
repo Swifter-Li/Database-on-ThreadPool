@@ -1,0 +1,5 @@
+src/.idea/workspace.xml
+src/cmake-build-debug/
+src/p2_m3.tar
+.DS_Store
+test/
